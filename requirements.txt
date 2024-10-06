@@ -1,3 +1,6 @@
 faker
 numpy
 prettytable
+python-dotenv
+bcrypt
+mimesis 
